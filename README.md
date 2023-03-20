@@ -1,4 +1,4 @@
-# Test
+# Django Project Test
 
 - Test2
 - Test3
